@@ -1,0 +1,25 @@
+.eductaion{
+    padding: 100px 0px;
+    margin: 50px 0px;
+    margin-left: 120px;
+    background-color: rgba(128, 128, 128, 0.164);
+}
+
+.eductaion hr{
+    color: #138781;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.eductaion h2{
+    font-weight: bold;
+    color: #138781;
+}
+
+.eductaio .vertical-timeline-element-title{
+    color: #138781;
+}
+
+.eductaio .vertical-timeline-element-subtitle{
+    color: #1e1e2c;
+}
